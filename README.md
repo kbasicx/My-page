@@ -15,5 +15,8 @@ These md will save all history of my notes and that include :
 - make these page easy and simple to learn
 - last one complete this project
 
+## 2 | 13/10/2024
+
+
 
 
