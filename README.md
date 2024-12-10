@@ -6,4 +6,4 @@ kbasicx's notes
 - something idn
 - make these page easy and simple to learn
 - last one complete this project
-# DONE
+
