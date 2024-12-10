@@ -1,4 +1,4 @@
-![06c8cdb4be6e7d78288b2d4543035757](https://github.com/user-attachments/assets/02de3ed7-3a93-484d-9a65-a5c4247007b2)
+![Notes (1)](https://github.com/user-attachments/assets/7a630f52-c8d7-4e43-acbd-915a3efd70e7)
 
 # NOTES
 kbasicx's notes
