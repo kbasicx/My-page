@@ -1,3 +1,5 @@
+![06c8cdb4be6e7d78288b2d4543035757](https://github.com/user-attachments/assets/02de3ed7-3a93-484d-9a65-a5c4247007b2)
+
 # NOTES
 kbasicx's notes
 - image for background link
@@ -7,5 +9,5 @@ kbasicx's notes
 - make these page easy and simple to learn
 - last one complete this project
 
-![25600e623f0294e7306d51e56ba1475c](https://github.com/user-attachments/assets/b1e90525-1da0-4dfb-98eb-df506035f9ed)
+
 
