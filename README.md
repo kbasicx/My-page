@@ -5,10 +5,9 @@
 
 These md will save all history of my notes and that include :
 
-##BIG NOTE
 
-kbasicx's notes 
-12/10:
+##kbasicx's notes 
+
 - image for background link
 - html for pages
 - make sure that simple and basic
