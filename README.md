@@ -7,7 +7,7 @@ These md will save all history of my notes and that include :
 
 
 ## 1 | 12/10/2024
-
+'''python
 - image for background link
 - html for pages
 - make sure that simple and basic
