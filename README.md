@@ -1,3 +1,3 @@
 # My-page
-main
-maintain
+Background
+Imaage
