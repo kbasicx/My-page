@@ -6,7 +6,7 @@
 These md will save all history of my notes and that include :
 
 
-##kbasicx's notes 
+## Examples
 
 - image for background link
 - html for pages
