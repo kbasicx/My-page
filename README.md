@@ -1,13 +1,14 @@
 
 # History of my notes [![Note](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> 
+> NOTES
 > <img src="icon.png" align="right"/>
 
-Elements in beautiful READMEs include, but are not limited to:
+These md will save all history of my notes and that include :
 
-images, screenshots, GIFs, text formatting, etc.
+##BIG NOTE
 
-kbasicx's notes
+kbasicx's notes 
+12/10:
 - image for background link
 - html for pages
 - make sure that simple and basic
