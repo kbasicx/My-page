@@ -1,6 +1,6 @@
 
 > Blogs
-Khoi's blogs
+
 # Entertainment 
 - [Youtube](https://www.youtube.com/@zxckbruh)
 - [Tiktok](https://www.tiktok.com/@notmzik_?lang=en)
