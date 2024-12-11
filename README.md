@@ -6,12 +6,19 @@
 - [Tiktok](https://www.tiktok.com/@notmzik_?lang=en)
 - [Facebook](https://www.facebook.com/profile.php?id=100092310412433)
 - [Reddit](https://www.reddit.com/user/Ok_Lengthiness_9580/)
+- [Codeberg](https://codeberg.org/Kndev)
 
 # Everything 
 - [About me](https://github.com/kbasicx/Pages/blob/main/About%20me.md)
 - [backup file](https://github.com/kbasicx/Pages/blob/main/nighttab%20backup.md)
-- [Optimizer](
+- [Optimizer](https://github.com/kbasicx/Pages/blob/main/Optimize.md)
+
 # Social music 
+- [Spotify](https://open.spotify.com/)
+- [Soundcloud](https://soundcloud.com/)
+- [MusicApple](https://music.apple.com/us/browse)
+- [Last.fm](https://www.last.fm/)
+
 
 
 
