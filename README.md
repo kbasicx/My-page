@@ -1,6 +1,5 @@
 
-# Social :
-> Some of my social media account
+> Blogs
 
 # Entertainment 
 - [Youtube](https://www.youtube.com/@zxckbruh)
