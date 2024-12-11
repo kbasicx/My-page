@@ -1,5 +1,5 @@
 # About 
-about me
+- My name is Khoi you guys can call me kzdev
 - I'm a vietnamese student spawned around the earth
 - I'm from vietnam and my parent is vietnamese but i can also use English
 - I love manga and anime from Japanese and Japanese culture in general
