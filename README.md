@@ -8,7 +8,7 @@
 - [Reddit](https://www.reddit.com/user/Ok_Lengthiness_9580/)
 
 # Everything 
-- [About me](
+- [About me](https://github.com/kbasicx/Pages/blob/main/About%20me.md)
 
 
 
