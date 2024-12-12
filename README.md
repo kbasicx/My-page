@@ -22,6 +22,7 @@
 
 # Friends
 - [Nam Khanh](https://github.com/kbasicx/Pages/blob/main/Nam%20Khanh.md)
+- [Manh Duy](https://github.com/kbasicx/Pages/blob/main/Manh%20Duy.md)
 
 
 
