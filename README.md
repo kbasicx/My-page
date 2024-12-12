@@ -13,7 +13,6 @@
 - [backup file](https://github.com/kbasicx/Pages/blob/main/backup.md)
 - [Optimizer](https://github.com/kbasicx/Pages/blob/main/Optimize.md)
 - [Wallpaper](https://drive.google.com/drive/folders/1O3FHf1BGaMlDI00bZoE1CqS4_W1y005x)
-- [Nam Khanh](https://github.com/kbasicx/Pages/blob/main/Nam%20Khanh.md)
 
 # Social music 
 - [Spotify](https://open.spotify.com/)
@@ -21,6 +20,8 @@
 - [MusicApple](https://music.apple.com/us/browse)
 - [Last.fm](https://www.last.fm/)
 
+# Friends
+- [Nam Khanh](https://github.com/kbasicx/Pages/blob/main/Nam%20Khanh.md)
 
 
 
